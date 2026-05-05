@@ -69,10 +69,6 @@
 
 | Projet | Description |
 |--------|-------------|
-| [📜 Cheatsheets](https://github.com/sam69100/Cheatsheets) | Références et mémos pour la cybersécurité 
-| [ Score CVSS 4 French version ] (https://sam69100.github.io/cvss-v4-calculator/) | Calculateur CVSS 4 en FR (Cyberini)
-
----
 # 🚀 Awesome TryHackMe
 <img width="439" height="247" alt="image" src="https://github.com/user-attachments/assets/e6930e94-07f9-42b9-808d-f1c509bc21fb" />
 
